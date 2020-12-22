@@ -19,3 +19,5 @@ appsettings.json
 .env.production.local
 
 npm-debug.log*
+.dll
+.pdb

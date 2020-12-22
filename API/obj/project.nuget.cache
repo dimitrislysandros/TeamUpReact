@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GeJWDt0QWDeYMpG76i7HH1v5tsPtMUmGQ1JjBez2lrTzphHFB3W0YnTqZCsc2JW8Pi/PQtUXuvQua/58QLXGdw==",
+  "dgSpecHash": "d2fcxRlTv9wiGzEYAgyquyQjERyu9uHyoLOFSNZUtOrybwMA/UppA7/9DcTHMDW6hXSX203DfU7aGvELRKxyJw==",
   "success": true,
   "projectFilePath": "C:\\Users\\dimit\\Documents\\TeamUp-React\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dimit\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\dimit\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "C:\\Users\\dimit\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
     "C:\\Users\\dimit\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

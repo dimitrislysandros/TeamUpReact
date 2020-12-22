@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "o+ep3+lp2YvGs1oUvb6OYHHcyy4tZpZ+FtAE9TyLw/AM/cWLe/RgU7bqxxUyTT1Q6RTa/cS19C8eAqC41WjZCA==",
+  "dgSpecHash": "LVY3E/U8moZBFSDxGH4covA4ALltGijOjsOQxO+Jf/ntsR2nCvs5j5pU6Au1+AHg9Ik+c/baWIyd2sa1c/LQQw==",
   "success": true,
   "projectFilePath": "C:\\Users\\dimit\\Documents\\TeamUp-React\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\dimit\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.0\\microsoft.data.sqlite.core.5.0.0.nupkg.sha512",
     "C:\\Users\\dimit\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\dimit\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
